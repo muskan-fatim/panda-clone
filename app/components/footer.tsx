@@ -19,7 +19,7 @@ export default function BusinessLunch() {
           className="h-12 hidden md:block"
         />
         <img
-          src="/googleplay.png" 
+          src="/googleplay.PNG" 
           alt="Get it on Google Play"
           className="h-12 hidden md:block"
         />
